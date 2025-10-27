@@ -1,0 +1,6 @@
+//Needs to have a main package and a main funcion as example bellow:
+
+package main
+
+func main() {
+}
